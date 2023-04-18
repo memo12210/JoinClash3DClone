@@ -1,0 +1,4 @@
+repository "hypercasual deneme2 (1)@Ekip5@cloud"
+  path "/"
+    br "/main"
+    co "/main"
