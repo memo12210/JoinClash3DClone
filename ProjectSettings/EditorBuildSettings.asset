@@ -14,7 +14,5 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Fatih/Fatih.unity
     guid: b56cc18ff60c9a742b1810931bcee285
-  - enabled: 1
-    path: Assets/Scenes/Fatih/Credits.unity
-    guid: 2a0730831f033074fbca2fb7b5451296
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

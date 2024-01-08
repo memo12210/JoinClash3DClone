@@ -18,11 +18,13 @@ public class GroupCompController : MonoBehaviour
         {
 
             Debug.Log("Triggered");
-            for (int i = 0; i < groupCompanion.Length; i++)
+            foreach (var t in groupCompanion)
             {
-                groupCompanion[i].GetComponent<DetectPlayer>().isCollidePlayer = true;
-                groupCompanion[i].tag = "CollidedCompanion";
-                groupCompanion[i].transform.GetChild(1).GetComponent<Renderer>().material.color = new Color(0, 0.32f, 255);
+                if (t == null) continue;
+                
+                t.GetComponent<DetectPlayer>().isCollidePlayer = true;
+                t.tag = "CollidedCompanion";
+                t.transform.GetChild(1).GetComponent<Renderer>().material.color = new Color(0, 0.32f, 255);
             }
             triggered = false;
         }
