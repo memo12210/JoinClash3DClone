@@ -1,4 +1,6 @@
 # Join Clash 3D Clone
+![Static Badge](https://img.shields.io/badge/Unity_version-2023.1.16f1-blue)
+![Static Badge](https://img.shields.io/badge/Genre-Hypercasual-blue?labelColor=orange)
 ## Table of Contents
 - [Game Overview](#game-overview)
 - [Features](#features)
