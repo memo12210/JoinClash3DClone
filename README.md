@@ -40,7 +40,7 @@ After installing, you can start the game by opening the Unity project and runnin
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-**Your Name**
+**Mehmet Çalıkoğlu**
 - [Portfolio](http://memocaldev.com)
 - [LinkedIn](https://www.linkedin.com/in/mehmetcalikoglu/)
 - [Email](mailto:memocaldev@gmail.com)
