@@ -33,8 +33,8 @@ After installing, you can start the game by opening the Unity project and runnin
 - Unity [2023.1.16f1]
 
 ### Tools and Libraries
-- [Blender]: Used for 3D props, and character models.
-- [Cubase]: Used for music composition and sound effects.
+- **Blender**: Used for 3D props, and character models.
+- **Cubase**: Used for music composition and sound effects.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
